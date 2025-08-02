@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pooravrawat1
-- 👀 I’m interested in learning about data science, machine learning and data analytics!
+- 👀 I’m interested in learning about Software Engineering, DevOps, MLops, AI/ML Engineering!
 - 🌱 I’m currently learning internship roles within the industry
 - 💞️ I’m looking to collaborate on data sciecne/ machine learning based projects
 - 📫 How to reach me - pooravrawat@gmail.com
