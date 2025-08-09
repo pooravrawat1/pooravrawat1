@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Poorav Rawat  
 
 🚀 **Software Engineer in the making | Machine Learning Enthusiast | Problem Solver**  
-🎓 CS Sophomore @ Georgia State University (Honors College) — GPA: 4.18  
+🎓 CS Junior @ Georgia State University (Honors College) — GPA: 4.18  
 💡 Passionate about building scalable software, exploring AI/ML, and creating solutions that make a real impact.  
 
 ---
