@@ -15,12 +15,12 @@
 
 ## 💼 My Journey So Far  
 
-### 💻 **Software Engineering Intern @ Intuit** *(May 2025 – Present)*  
+### 💻 **Software Engineering Intern @ Intuit** *(May 2025 – Aug 2025)*  
 - Modernized Mailchimp’s monolith app, optimized CI/CD pipelines, and improved deployment reliability.  
 - Migrated legacy Jenkins pipelines to a modular Groovy-based architecture, boosting maintainability.  
 - Built and managed containerized environments with PHP, Podman, and Node.js.  
 
-### 🧠 **Machine Learning Intern @ TReNDS Center** *(June – Aug 2024)*  
+### 🧠 **Machine Learning Intern @ TReNDS Center** *(June 2024 – Aug 2024)*  
 - Optimized Torch-MISA hyperparameters for synthetic fMRI data, reducing MISI error to **0.2**.  
 - Analyzed 5,000+ samples, applied ML techniques, and collaborated on experiments with MATLAB visualizations.  
 
