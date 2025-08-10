@@ -29,7 +29,7 @@
 ## 🛠 Highlighted Projects  
 
 - 🎵 **[Music Genre Classification Using ML](#)** — Built a Random Forest classifier using MFCC features to classify 10 genres from the GTZAN dataset.  
-- 📋 **[Attentify](#)** — Co-created a real-time attendance system with HTML, CSS, Firebase, and JavaScript.  
+- 📋 **[Presently](#)** — Co-created a real-time attendance system with HTML, CSS, Firebase, and JavaScript.  
 - 📚 **[Library Management Interface](https://github.com/pooravrawat1/Library-Management-Interface)** — Designed a MySQL database + Python interface to efficiently manage book records.  
 
 ---
