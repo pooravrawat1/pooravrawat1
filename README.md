@@ -17,7 +17,7 @@
 
 ### 💻 **Software Engineering Intern @ Intuit** *(May 2025 – Aug 2025)*  
 - Modernized Mailchimp’s monolith app, optimized CI/CD pipelines, and improved deployment reliability.  
-- Migrated legacy Jenkins pipelines to a modular Groovy-based architecture, boosting maintainability.  
+- Migrated 33 % of legacy Jenkins pipelines to a modular Groovy-based architecture, boosting maintainability.  
 - Built and managed containerized environments with PHP, Podman, and Node.js.  
 
 ### 🧠 **Machine Learning Intern @ TReNDS Center** *(June 2024 – Aug 2024)*  
