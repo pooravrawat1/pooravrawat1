@@ -9,7 +9,7 @@
 ## 🛠 Tech Toolbox  
 **Languages:** PHP, Groovy, Python, Java, C, C++, JavaScript, SQL, HTML, CSS, R  
 **Frameworks & Tools:** PyTorch, React, Docker, Rancher, Splunk, Jenkins, Kubernetes, MATLAB, MySQL  
-**Platforms & Utilities:** Git, Google Colab, Jupyter, Arduino IDE, Linux, Azure, JIRA  
+**Platforms & Utilities:** Git, Jupyter, Arduino IDE, Linux, Azure, JIRA  
 
 ---
 
