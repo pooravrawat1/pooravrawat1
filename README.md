@@ -26,16 +26,8 @@
 
 ---
 
-## 🛠 Highlighted Projects  
-
-- 🎵 **[Music Genre Classification Using ML](https://github.com/pooravrawat1/Music-genre-classification)** — Built a Random Forest classifier using MFCC features to classify 10 genres from the GTZAN dataset.  
-- 📋 **[Presently](https://github.com/pooravrawat1/Presently)** — Co-created a real-time attendance system with HTML, CSS, Firebase, and JavaScript.  
-- 📚 **[Library Management Interface](https://github.com/pooravrawat1/Library-Management-Interface)** — Designed a MySQL database + Python interface to efficiently manage book records.  
-
----
-
 ## 🌱 What I'm Exploring  
-- Full-stack development with React + Firebase  
+- Full-stack development 
 - Advanced AI/ML model optimization  
 - DevOps best practices with Docker, Kubernetes, and CI/CD pipelines  
 
