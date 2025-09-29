@@ -1,38 +1,61 @@
 # 👋 Hey there, I'm Poorav Rawat  
 
-🚀 **Software Engineer in the making | Machine Learning Enthusiast | Problem Solver**  
+🚀 **Aspiring Software Engineer | Machine Learning Explorer | DevOps Enthusiast**  
 🎓 CS Junior @ Georgia State University (Honors College) — GPA: 4.18  
-💡 Passionate about building scalable software, exploring AI/ML, and creating solutions that make a real impact.  
+💡 I thrive at the intersection of scalable software, intelligent systems, and real-world impact. Whether it's optimizing pipelines or tuning ML models, I love solving problems that matter.
+
+---
+
+## 🧠 Currently Exploring  
+- Full-stack development with React, Firebase, and Astro  
+- AI agent design with LangChain, LangGraph, and Firecrawl  
+- DevOps best practices using Docker, Kubernetes, and CI/CD workflows  
 
 ---
 
 ## 🛠 Tech Toolbox  
-**Languages:** PHP, Groovy, Python, Java, C, C++, JavaScript, SQL, HTML, CSS, R  
-**Frameworks & Tools:** PyTorch, React, Docker, Rancher, Splunk, Jenkins, Kubernetes, MATLAB, MySQL  
-**Platforms & Utilities:** Git, Jupyter, Arduino IDE, Linux, Azure, JIRA  
+**Languages:** Python, Java, PHP, Groovy, C, C++, JavaScript, TypeScript, SQL, HTML, CSS, R  
+**Frameworks & Tools:** PyTorch, TensorFlow, LangChain, LangGraph, React, Streamlit, Docker, Kubernetes, Jenkins, Rancher, Splunk, MATLAB, MySQL  
+**Platforms & Utilities:** Git, Jupyter, Vercel, Azure, Jira, Arduino IDE, Linux  
+**Certifications:** CodePath’s Intermediate Technical Interview & Web Development Courses  
 
 ---
 
-## 💼 My Journey So Far  
+## 💼 Experience Highlights  
 
-### 💻 **Software Engineering Intern @ Intuit** *(May 2025 – Aug 2025)*  
-- Modernized Mailchimp’s monolith app, optimized CI/CD pipelines, and improved deployment reliability.  
-- Migrated 33 % of legacy Jenkins pipelines to a modular Groovy-based architecture, boosting maintainability.  
-- Built and managed containerized environments with PHP, Podman, and Node.js.  
+### 💻 Software Engineering Intern @ Intuit *(May 2025 – Aug 2025)*  
+- Modernized Mailchimp’s PHP monolith and optimized CI/CD workflows for faster, more reliable deployments.  
+- Migrated 33% of Jenkins pipelines to modular Groovy-based architecture on cloud Kubernetes, adding CI checks for data migrations, I18n, API validation, and feature flags.  
+- Enhanced production stability using containerized PHP, Podman, and Node.js environments managed via Rancher.  
 
-### 🧠 **Machine Learning Intern @ TReNDS Center** *(June 2024 – Aug 2024)*  
-- Optimized Torch-MISA hyperparameters for synthetic fMRI data, reducing MISI error to **0.2**.  
-- Analyzed 5,000+ samples, applied ML techniques, and collaborated on experiments with MATLAB visualizations.  
-
----
-
-## 🌱 What I'm Exploring  
-- Full-stack development 
-- Advanced AI/ML model optimization  
-- DevOps best practices with Docker, Kubernetes, and CI/CD pipelines  
+### 🧠 Machine Learning Intern @ TReNDS Center *(June 2024 – Aug 2024)*  
+- Tuned Torch-MISA hyperparameters on synthetic fMRI data, reducing MISI error to **0.2**.  
+- Analyzed 5K+ samples using PyTorch, MATLAB, NumPy, and Pandas to uncover patterns and improve model performance.  
 
 ---
 
-## 📫 Connect With Me  
+## 🚧 Projects That Matter  
+
+- **AI Agent Development** *(LangChain, LangGraph, Firecrawl)*  
+  Built an autonomous agent using OpenAI’s API for web data extraction and reasoning.  
+
+- **Music Genre Classification** *(Python, Librosa, TensorFlow)*  
+  Engineered MFCC features from 30s clips and trained a Random Forest model to classify 10 genres on the GTZAN dataset.  
+
+- **Presently** *(React, Firebase)*  
+  Created a digital attendance system with real-time data sync and a clean UI to streamline classroom tracking.  
+
+---
+
+## 🎓 Education & Leadership  
+**Georgia State University** *(Honors College)* — *B.S. in Computer Science, May 2027*  
+- GPA: 4.18 | President’s List x4  
+- VP @ Residence Hall Association | VP of Outreach @ Programming Club  
+- CodePath Scholar  
+
+---
+
+## 📫 Let’s Connect  
 📧 **Email:** Pooravrawat@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/pooravrawat](https://linkedin.com/in/pooravrawat)  
+💻 **GitHub:** [github.com/pooravrawat](https://github.com/pooravrawat)  
