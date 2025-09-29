@@ -36,14 +36,15 @@
 
 ## 🚧 Projects That Matter  
 
+- **Machup Royale** *(Machine Learning)*  
+  A machine learning project that predicts Clash Royale deck matchup outcomes based on card synergies, counters, and meta data.
+
 - **AI Agent Development** *(LangChain, LangGraph, Firecrawl)*  
   Built an autonomous agent using OpenAI’s API for web data extraction and reasoning.  
 
 - **Music Genre Classification** *(Python, Librosa, TensorFlow)*  
   Engineered MFCC features from 30s clips and trained a Random Forest model to classify 10 genres on the GTZAN dataset.  
-
-- **Presently** *(React, Firebase)*  
-  Created a digital attendance system with real-time data sync and a clean UI to streamline classroom tracking.  
+ 
 
 ---
 
