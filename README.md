@@ -41,9 +41,8 @@
 
 ---
 
-## 🎓 Education & Leadership  
-**Georgia State University** *(Honors College)* — *B.S. in Computer Science, May 2027*  
-- GPA: 4.18 | President’s List x4  
+## 🎓 Leadership  
+- President’s List x4  
 - VP @ Residence Hall Association | VP of Outreach @ Programming Club  
 - CodePath Scholar  
 
