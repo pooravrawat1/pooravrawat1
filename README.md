@@ -6,13 +6,6 @@
 
 ---
 
-## 🧠 Currently Exploring  
-- Full-stack development with React, Firebase, and Astro  
-- AI agent design with LangChain, LangGraph, and Firecrawl  
-- DevOps best practices using Docker, Kubernetes, and CI/CD workflows  
-
----
-
 ## 🛠 Tech Toolbox  
 **Languages:** Python, Java, PHP, Groovy, C, C++, JavaScript, TypeScript, SQL, HTML, CSS, R  
 **Frameworks & Tools:** PyTorch, TensorFlow, LangChain, LangGraph, React, Streamlit, Docker, Kubernetes, Jenkins, Rancher, Splunk, MATLAB, MySQL  
