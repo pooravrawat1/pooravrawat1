@@ -23,29 +23,7 @@
 
 ### 🧠 Machine Learning Intern @ TReNDS Center *(June 2024 – Aug 2024)*  
 - Tuned Torch-MISA hyperparameters on synthetic fMRI data, reducing MISI error to **0.2**.  
-- Analyzed 5K+ samples using PyTorch, MATLAB, NumPy, and Pandas to uncover patterns and improve model performance.  
-
----
-
-## 🚧 Projects That Matter  
-
-- **Machup Royale** *(Machine Learning)*  
-  A machine learning project that predicts Clash Royale deck matchup outcomes based on card synergies, counters, and meta data.
-
-- **AI Agent Development** *(LangChain, LangGraph, Firecrawl)*  
-  Built an autonomous agent using OpenAI’s API for web data extraction and reasoning.  
-
-- **Music Genre Classification** *(Python, Librosa, TensorFlow)*  
-  Engineered MFCC features from 30s clips and trained a Random Forest model to classify 10 genres on the GTZAN dataset.  
- 
-
----
-
-## 🎓 Leadership  
-- President’s List x4  
-- VP @ Residence Hall Association | VP of Outreach @ Programming Club  
-- CodePath Scholar  
-
+- Analyzed 5K+ samples using PyTorch, MATLAB, NumPy, and Pandas to uncover patterns and improve model performance.
 ---
 
 ## 📫 Let’s Connect  
