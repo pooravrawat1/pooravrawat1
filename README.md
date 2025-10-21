@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Software Engineer | Machine Learning Explorer | DevOps Enthusiast**  
 🎓 CS Junior @ Georgia State University (Honors College) — GPA: 4.18  
-💡 I thrive at the intersection of scalable software, intelligent systems, and real-world impact. Whether it's optimizing pipelines or tuning ML models, I love solving problems that matter.
+💡 I thrive at the intersection of scalable software, intelligent systems, and real-world impact.
 
 ---
 
