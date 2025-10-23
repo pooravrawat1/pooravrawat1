@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Poorav Rawat  
+# 👋 Hey there, I'm Poorav!
 
 🚀 **Aspiring Software Engineer | Machine Learning Explorer | DevOps Enthusiast**  
 🎓 CS Junior @ Georgia State University (Honors College) — GPA: 4.18  
