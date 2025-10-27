@@ -1,6 +1,4 @@
 # 👋 Hey there, I'm Poorav !
-
-🚀 **Aspiring Software Engineer | Machine Learning Explorer | DevOps Enthusiast**  
 🎓 CS Junior @ Georgia State University (Honors College) — GPA: 4.18  
 💡 I thrive at the intersection of scalable software, intelligent systems, and real-world impact.
 
