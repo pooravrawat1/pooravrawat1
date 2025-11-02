@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 I'm a **builder, researcher, and problem solver** — I love creating tools that blend data, intelligence, and design.  
-Currently exploring **AI-driven applications**, **cloud automation**, and **neuroimaging research**.  
+Currently exploring **AI-driven applications**, **cloud automation**, and **ML research**.  
 Outside of code, I’m also a **student leader** and enjoy mentoring and organizing multicultural tech events.
 
 ---
@@ -51,22 +51,6 @@ Outside of code, I’m also a **student leader** and enjoy mentoring and organiz
 - **Machine Learning Intern @ TReNDS Center (IEEE BHI 2025)**  
   🧠 Optimized Torch-MISA for multimodal fMRI data fusion; improved MISI error to 0.2 and accelerated model training by 40%.  
   📊 Designed 26+ parameter experiments and analyzed 5,000+ synthetic datasets for neuroimaging insights.  
-
----
-
-### 🌟 Featured Projects
-
-#### 🥦 [savr.ai](https://github.com/pooravrawat/savr-ai)
-> AWS-powered AI agent that scans grocery receipts and generates personalized meal plans.  
-> **Stack:** AWS Bedrock (Claude 4.5), Textract, React, DynamoDB
-
-#### ⚔️ Clash Royale Game Analyzer
-> A computer vision system that analyzes Clash Royale gameplay videos using YOLOv8 and OpenCV.  
-> Generates structured battle logs and feature data for predictive deck analysis.
-
-#### 🎵 Music Genre Classification
-> ML pipeline that classifies songs by genre using Librosa & TensorFlow with 76% accuracy.  
-> Deployed as a Streamlit app and CLI tool.
 
 ---
 
