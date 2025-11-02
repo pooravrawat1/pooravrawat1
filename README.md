@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Poorav Rawat
 
 🎓 **Computer Science @ Georgia State University (Honors College, 4.0 GPA)**  
-🚀 **Software Engineer Intern @ Intuit | Machine Learning Intern @ TReNDS (IEEE BHI 2025 Presenter)**  
+🚀 **Software Engineer Intern @ Intuit | Machine Learning Intern @ TReNDS (Presented at IEEE BHI 2025)**  
 💡 Passionate about **AI, full-stack development, and scalable cloud systems**
 
 ---
