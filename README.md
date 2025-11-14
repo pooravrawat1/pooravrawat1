@@ -71,6 +71,3 @@ Outside of code, I’m also a **student leader** and enjoy mentoring and organiz
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/pooravrawat)
 [![Email](https://img.shields.io/badge/Email-pooravrawat@gmail.com-red?logo=gmail&logoColor=white)](mailto:pooravrawat@gmail.com)
 
----
-
-> “Leadership is when you help people become the best version of themselves.” ✨
