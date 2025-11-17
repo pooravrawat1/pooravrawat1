@@ -6,13 +6,6 @@ Passionate about **AI, full-stack development, and scalable cloud systems**
 
 ---
 
-### About Me
-I'm a **builder, researcher, and problem solver** I love creating tools that blend data, intelligence, and design.  
-Currently exploring **AI-driven applications**, **cloud automation**, and **ML research**.  
-Outside of code, I’m also a **student leader** and enjoy mentoring and organizing multicultural tech events.
-
----
-
 ### Tech Stack
 
 #### Languages
