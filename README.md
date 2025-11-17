@@ -45,27 +45,6 @@ Outside of code, I’m also a **student leader** and enjoy mentoring and organiz
 
 ---
 
-### Experience Highlights
-
-- **Software Engineer Intern @ Intuit (Summer 2025)**  
-  Migrated 33% of legacy Jenkins pipelines to stateless containerized runners on Kubernetes, cutting rollback rate <2%.  
-  Reduced CI time by 35% through optimized Docker builds & parallelization, improving scalability and deployment speed.  
-
-- **Machine Learning Intern @ TReNDS Center (IEEE BHI 2025)**  
-  Optimized Torch-MISA for multimodal fMRI data fusion; improved MISI error to 0.2 and accelerated model training by 40%.  
-  Designed 26+ parameter experiments and analyzed 5,000+ synthetic datasets for neuroimaging insights.  
-
----
-
-###  Achievements
--  **1st Place – AI ATL 2025 (Drive Capital Track: Reliable AI Systems)**  
--  **Research presented at IEEE BHI 2025 Conference**  
--  **President’s List (4x)**  
--  **Vice President of Residence Hall Association & Programming Club (progsu)**  
--  **CodePath Scholar, Student Alumni Ambassador**
-
----
-
 ###  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pooravrawat)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/pooravrawat)
