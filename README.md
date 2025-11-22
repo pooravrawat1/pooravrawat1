@@ -40,6 +40,6 @@ Passionate about **AI, full-stack development, and scalable cloud systems**
 
 ###  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pooravrawat)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/pooravrawat)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/pooravrawat1)
 [![Email](https://img.shields.io/badge/Email-pooravrawat@gmail.com-red?logo=gmail&logoColor=white)](mailto:pooravrawat@gmail.com)
 
