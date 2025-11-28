@@ -1,4 +1,4 @@
-# Hello, I'm Poorav!
+## Hello, I'm Poorav!
 
 Currently learning and implementing core algorithms in Deep Reinforcement Learning.
 
