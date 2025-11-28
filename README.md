@@ -1,6 +1,7 @@
 # Hello, I'm Poorav!
 
 Currently learning and implementing core algorithms in Deep Reinforcement Learning.
+
 ---
 ##  Featured AI/ML Projects
 
@@ -16,9 +17,10 @@ Currently learning and implementing core algorithms in Deep Reinforcement Learni
 * **[savr.ai - Autonomous Meal Planning Agent](https://github.com/savr-devTeam/savr.ai)**
     * Autonomous Meal Planning Agent utilizing a serverless AWS architecture (Lambda/DynamoDB). Integrates **Generative AI (Amazon Bedrock/Claude 3.5 Sonnet v2)** for personalized, goal-oriented meal plan generation, enhanced by **Amazon Textract** for receipt OCR and food analysis.
 ---
-## Currently reading
+## Currently reading / watching
 * **[Wayformer: Motion Forecasting via Simple & Efficient Attention Networks](https://waymo.com/research/wayformer/)**
 * **[Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset](https://waymo.com/research/large-scale-interactive-motion-forecasting-for-autonomous-driving--the-waymo-open-motion-dataset/)**
+* **[DeepMind x UCL | Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)**
 ---
 ### Tech Stack
 
