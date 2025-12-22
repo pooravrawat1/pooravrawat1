@@ -4,9 +4,6 @@ Currently learning and implementing core algorithms in Deep Reinforcement Learni
 
 ---
 ##  Featured AI/ML Projects
-
-* **[Motion-RL-Research](https://github.com/Motion-RL-Research)** (In Progress)
-    * Research initiative focused on **Optimized Real-Time Motion Planning** for Autonomous Vehicles. Utilizes a two-stage approach combining high-performance trajectory prediction (GNN/TensorRT) with a safety-critical planning policy trained via **PPO/SAC Deep RL** methods on the Waymo Open Motion Dataset (WOMD)
     
 * **[CartPole-solver](https://github.com/pooravrawat1/CartPole-solver)**
     * Foundational Deep Reinforcement Learning project. Implemented a **Deep Q-Network (DQN)** from scratch in PyTorch to successfully solve the CartPole-v1 environment, demonstrating mastery of core DRL components like **experience replay** and **target networks**.
