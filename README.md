@@ -4,6 +4,8 @@ Currently learning and implementing core algorithms in Deep Reinforcement Learni
 
 ---
 ##  Featured AI/ML Projects
+* **[Highway-RL](https://github.com/pooravrawat1/Highway-RL)**
+    * Autonomous vehicle navigation using Deep Reinforcement Learning. Built with highway-env and Stable Baselines3.
     
 * **[CartPole-solver](https://github.com/pooravrawat1/CartPole-solver)**
     * Foundational Deep Reinforcement Learning project. Implemented a **Deep Q-Network (DQN)** from scratch in PyTorch to successfully solve the CartPole-v1 environment, demonstrating mastery of core DRL components like **experience replay** and **target networks**.
@@ -23,31 +25,30 @@ Currently learning and implementing core algorithms in Deep Reinforcement Learni
 
 #### Languages
 ![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
 ![Cpp](https://skillicons.dev/icons?i=cpp)
+![R](https://skillicons.dev/icons?i=r)
+![C](https://skillicons.dev/icons?i=c)
 ![Go](https://skillicons.dev/icons?i=go)
+![Sql](https://skillicons.dev/icons?i=mysql)
+![Java](https://skillicons.dev/icons?i=java)
 ![Js](https://skillicons.dev/icons?i=js)
 ![Ts](https://skillicons.dev/icons?i=ts)
 ![Php](https://skillicons.dev/icons?i=php)
-![R](https://skillicons.dev/icons?i=r)
 ![Html](https://skillicons.dev/icons?i=html)
 ![Css](https://skillicons.dev/icons?i=css)
-![Sql](https://skillicons.dev/icons?i=mysql)
+
 
 #### Frameworks & Tools
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![Pytorch](https://skillicons.dev/icons?i=pytorch)
 ![Aws](https://skillicons.dev/icons?i=aws)
 ![Gcp](https://skillicons.dev/icons?i=gcp)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Vercel](https://skillicons.dev/icons?i=vercel)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![Postgresql](https://skillicons.dev/icons?i=postgres)
-![Git](https://skillicons.dev/icons?i=git)
 
 ---
 
