@@ -1,20 +1,7 @@
-## Hello, I'm Poorav!
+# Hello, I'm Poorav!
 
 Currently learning and implementing core algorithms in Deep Reinforcement Learning.
 
----
-##  Featured AI/ML Projects
-* **[Highway-RL](https://github.com/pooravrawat1/Highway-RL)**
-    * Autonomous vehicle navigation using Deep Reinforcement Learning. Built with highway-env and Stable Baselines3.
-    
-* **[CartPole-solver](https://github.com/pooravrawat1/CartPole-solver)**
-    * Foundational Deep Reinforcement Learning project. Implemented a **Deep Q-Network (DQN)** from scratch in PyTorch to successfully solve the CartPole-v1 environment, demonstrating mastery of core DRL components like **experience replay** and **target networks**.
-
-* **[HeyAI- A Voice for AI Agents](https://github.com/ai-atl-dev)** (1st Place Winner at AI ATL Hackathon)
-    * Led the development of a low-latency, full-stack **AI Voice Agent Platform**. The solution uses a Go backend, handles conversations via **Vertex AI (Gemini 2.5 Flash)**, and features a FastAPI-based agent for conversational customer service, all deployed on GCP.
-
-* **[savr.ai - Autonomous Meal Planning Agent](https://github.com/savr-devTeam/savr.ai)**
-    * Autonomous Meal Planning Agent utilizing a serverless AWS architecture (Lambda/DynamoDB). Integrates **Generative AI (Amazon Bedrock/Claude 3.5 Sonnet v2)** for personalized, goal-oriented meal plan generation, enhanced by **Amazon Textract** for receipt OCR and food analysis.
 ---
 ## Currently reading / watching
 * **[Wayformer: Motion Forecasting via Simple & Efficient Attention Networks](https://waymo.com/research/wayformer/)**
