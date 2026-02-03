@@ -42,3 +42,7 @@ Currently learning and implementing core algorithms in Deep Reinforcement Learni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pooravrawat)
 [![Email](https://img.shields.io/badge/Email-pooravrawat@gmail.com-red?logo=gmail&logoColor=white)](mailto:pooravrawat@gmail.com)
 
+
+![GitHub Space Shooter](game.gif)
+
+
