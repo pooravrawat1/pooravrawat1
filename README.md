@@ -7,6 +7,7 @@ Currently working on stuff in my pvt repo(s).
 * **[Wayformer: Motion Forecasting via Simple & Efficient Attention Networks](https://waymo.com/research/wayformer/)**
 * **[Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset](https://waymo.com/research/large-scale-interactive-motion-forecasting-for-autonomous-driving--the-waymo-open-motion-dataset/)**
 * **[DeepMind x UCL | Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)**
+* **[Neural Network Course- 3Brown1Blue](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)**
 * **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**
 ---
 
