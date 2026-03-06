@@ -2,8 +2,6 @@
 
 Student, builder, and researcher who enjoys creating things I personally need or believe others would find valuable. I strongly believe in learning by doing, which is why I focus on shipping projects and turning ideas into real products.
 
-Currently working on about 5 projects at the same time😵
-
 ## Some great papers and videos I am consuming
 * **[Wayformer: Motion Forecasting via Simple & Efficient Attention Networks](https://waymo.com/research/wayformer/)**
 * **[Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset](https://waymo.com/research/large-scale-interactive-motion-forecasting-for-autonomous-driving--the-waymo-open-motion-dataset/)**
