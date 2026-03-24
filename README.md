@@ -1,4 +1,4 @@
-# Hello, I'm Poorav!
+![name](name.png)
 
 Student, builder, and researcher who enjoys creating things I personally need or believe others would find valuable. I strongly believe in learning by doing, which is why I focus on shipping projects and turning ideas into real products.
 
