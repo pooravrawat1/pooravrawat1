@@ -8,6 +8,3 @@ Student, builder, and researcher who enjoys creating things I personally need or
 
 
 
-![GitHub Space Shooter](game.gif)
-
-
